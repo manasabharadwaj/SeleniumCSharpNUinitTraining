@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +20,10 @@ namespace NUnitSeleniumC_Training.Selenium
             foreach (IWebElement i in downloadLink)
             {
                 Console.WriteLine(i.Text + "URL is - " + i.GetAttribute("href"));
+                Console.WriteLine("Update to links.cs file");
             }
 
 
         }
     }
-}*/
+}

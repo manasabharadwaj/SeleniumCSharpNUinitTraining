@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NUnitSeleniumC_Training
-build_property.ProjectDir = C:\Users\masbh\source\repos\NUnitSeleniumC#Training\
+build_property.ProjectDir = C:\Users\masbh\Documents\EG India\SeleniumCSharpNUinitTraining\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

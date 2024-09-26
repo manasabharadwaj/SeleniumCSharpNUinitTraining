@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NUnitSeleniumC#Training")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75bb4c138882763c82008defc310ce8332a886a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("NUnitSeleniumC#Training")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NUnitSeleniumC#Training")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\masbh\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj": {}
+    "C:\\Users\\masbh\\Documents\\EG India\\SeleniumCSharpNUinitTraining\\NUnitSeleniumC#Training.csproj": {}
   },
   "projects": {
-    "C:\\Users\\masbh\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj": {
+    "C:\\Users\\masbh\\Documents\\EG India\\SeleniumCSharpNUinitTraining\\NUnitSeleniumC#Training.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\masbh\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj",
+        "projectUniqueName": "C:\\Users\\masbh\\Documents\\EG India\\SeleniumCSharpNUinitTraining\\NUnitSeleniumC#Training.csproj",
         "projectName": "NUnitSeleniumC#Training",
-        "projectPath": "C:\\Users\\masbh\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj",
+        "projectPath": "C:\\Users\\masbh\\Documents\\EG India\\SeleniumCSharpNUinitTraining\\NUnitSeleniumC#Training.csproj",
         "packagesPath": "C:\\Users\\masbh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\masbh\\source\\repos\\NUnitSeleniumC#Training\\obj\\",
+        "outputPath": "C:\\Users\\masbh\\Documents\\EG India\\SeleniumCSharpNUinitTraining\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\masbh\\AppData\\Roaming\\NuGet\\NuGet.Config",
