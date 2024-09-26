@@ -1,0 +1,2 @@
+Executing the setup
+Closing the calculator

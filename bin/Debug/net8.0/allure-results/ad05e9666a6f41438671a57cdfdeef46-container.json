@@ -1,0 +1,15 @@
+{
+  "uuid": "2ad0576d-1d8b-47f2-ad8a-d4bdced4660c",
+  "name": "NUnitSeleniumC_Training.NUNITTests.UnitTestCalcSetUpTearDown",
+  "children": [
+    "d7042719-3366-4433-9235-cb2859c143f3",
+    "be36a4d9-28e2-464e-beb4-915343ab8403",
+    "3d96d349-123e-400a-a43e-7a10a181944e",
+    "7ea5be4f-2654-4349-bc1f-299b989f0e77"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726487049280,
+  "stop": 1726487049368
+}

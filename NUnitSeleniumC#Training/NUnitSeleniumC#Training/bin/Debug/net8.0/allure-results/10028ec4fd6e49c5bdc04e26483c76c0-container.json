@@ -1,0 +1,32 @@
+{
+  "uuid": "70597f0f-31b8-4c7e-b8e8-b531a07a3961",
+  "name": "NUnitSeleniumC_Training.NUNITTests.BaseClass",
+  "children": [
+    "cfc5fa05-cbbe-474c-a1f8-fa985e4cdb04",
+    "7363237f-8af2-44eb-a38c-3aed8206595e",
+    "9b14eb82-25e4-42f4-9fb2-f907fdceca36",
+    "146a38d0-cd0c-47ea-9bd0-749d4586be83",
+    "ebf181f4-ec6b-43b1-8767-2c0317ec68d3",
+    "910ad93c-0e5d-4035-8b81-55e470e277b3",
+    "d149695f-959f-43af-9da4-0fd846f96413",
+    "8a1755e9-3c32-44b8-bc5a-96781bc37274",
+    "f9cad5c3-1c18-44a6-83cb-e95c36778218",
+    "cdb788d7-ac07-4bcd-b5dc-f8a5ca2ddefa",
+    "4d8e5d5c-898f-4ee7-b094-42dc5738b805",
+    "823ca5b7-f735-4854-8bf6-2e2a4fd26894",
+    "7dee7f0a-1e20-4982-a722-4beeca59fedc",
+    "993b1fd6-f41d-4c04-b800-5983d15ab943",
+    "f6c73100-f261-4aa4-831c-ed78d1503c70",
+    "797fef6f-995b-404a-aaa7-8171c7340d2f",
+    "f0763ee7-7883-48dc-aab9-ab24dd9fddc1",
+    "62874aaa-d235-4828-809f-4c906d038b8a",
+    "7657ecef-cd2c-4344-97f1-e2c3aa01e350",
+    "302604a6-2c6b-4d09-9f38-73878953ccf3",
+    "1626c913-0778-46d2-8c10-ad779f0bf458"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726482856429,
+  "stop": 1726482856639
+}

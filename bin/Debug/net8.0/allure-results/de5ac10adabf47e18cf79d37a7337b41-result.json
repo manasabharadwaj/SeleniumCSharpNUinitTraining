@@ -1,0 +1,51 @@
+{
+  "uuid": "40e5d560-9a4e-4902-a1a7-c925a1786ee2",
+  "historyId": "436836f27c7b985c4b42ca21d5c3ee0f",
+  "testCaseId": "d18ed16beb36f4a75a0b85c273ffb291",
+  "fullName": "NUnitSeleniumC#Training:NUnitSeleniumC_Training.NUNITTests.UnitTestCalcSetUpTearDown.SubTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTO32EYBIJAAIF"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumC_Training.NUNITTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "SubTest"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestCalcSetUpTearDown"
+    }
+  ],
+  "links": [],
+  "name": "SubTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "6474c3e8-f9aa-480c-8df4-2f6741ae5294-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726486824620,
+  "stop": 1726486824623
+}

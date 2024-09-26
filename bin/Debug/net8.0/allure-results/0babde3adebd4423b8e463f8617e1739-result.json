@@ -1,0 +1,58 @@
+{
+  "uuid": "ddf505c1-eaf6-45be-8d9b-0db079f776ec",
+  "historyId": "252184bc7e75a16885410491ed819c54",
+  "testCaseId": "66f9d4534ed94ccb4bbdcb85a28ddb70",
+  "fullName": "NUnitSeleniumC#Training:NUnitSeleniumC_Training.NUNITTests.Assertions.testassertions()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTO32EYBIJAAIF"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumC_Training.NUNITTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "testassertions"
+    },
+    {
+      "name": "testClass",
+      "value": "Assertions"
+    }
+  ],
+  "links": [],
+  "name": "testassertions",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected string length 6 but was 5. Strings differ at index 0.\r\n  Expected: \"google\"\r\n  But was:  \"yahoo\"\r\n  -----------^\r\n",
+    "trace": "   at NUnitSeleniumC_Training.NUNITTests.Assertions.testassertions() in C:\\Users\\masbh\\source\\repos\\NUnitSeleniumC#Training\\NUNITTests\\Assertions.cs:line 26\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "23fe08ef-7b1a-4627-8010-999069146987-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726486941784,
+  "stop": 1726486941821
+}

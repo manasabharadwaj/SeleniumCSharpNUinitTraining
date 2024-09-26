@@ -1,0 +1,12 @@
+{
+  "uuid": "d24f1ede-f003-4c4f-84c8-a55de98833bb",
+  "name": "NUnitSeleniumC_Training.NUNITTests.UnitTestCalcSetUpTearDown.AddTest",
+  "children": [
+    "f8aa3ccd-0cf9-482b-bcce-cffdc797dba8"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726486622237,
+  "stop": 1726486622243
+}

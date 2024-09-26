@@ -1,0 +1,12 @@
+{
+  "uuid": "7ca74b44-eb8e-4cb7-ba84-99fbdfb62299",
+  "name": "NUnitSeleniumC_Training.NUNITTests.UnitTestCalcSetUpTearDown.DivTest",
+  "children": [
+    "83d3d014-cdd0-4660-8e72-608d2b8834f1"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726486622257,
+  "stop": 1726486622264
+}

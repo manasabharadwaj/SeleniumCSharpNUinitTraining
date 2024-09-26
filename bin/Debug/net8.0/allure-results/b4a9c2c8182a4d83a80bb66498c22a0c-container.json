@@ -1,0 +1,12 @@
+{
+  "uuid": "307a4ca2-41de-4635-bf52-b2fbb5476909",
+  "name": "NUnitSeleniumC_Training.NUNITTests.Description",
+  "children": [
+    "1c9f239d-ea3a-4f17-9ac0-5fbc1b0075a1"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726486871208,
+  "stop": 1726486871233
+}
